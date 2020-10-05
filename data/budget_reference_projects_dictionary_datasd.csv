@@ -1,0 +1,6 @@
+field,description,possible_values
+project_number,"Uniquely identifies a Capital Improvement Project. The letter denotes the type of project, and the first two numbers represent the fiscal year the project began.",
+asset_owning_department,Indicates the City department that owns the project asset,
+asset_type,Describes the general category of asset,
+asset_subtype,"Describes a subasset, or a more specific category of asset",
+project_name,Indicates the specific purpose of a project,

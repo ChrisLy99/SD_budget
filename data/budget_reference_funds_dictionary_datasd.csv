@@ -1,0 +1,4 @@
+field,description,possible_values
+fund_type,Groups funds by general purpose,
+fund_name,Describes the specific purpose of the fund,
+fund_number,Uniquely identifies the fund. Capital funds are preceded by the letter C in the data.,

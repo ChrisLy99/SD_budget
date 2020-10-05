@@ -1,0 +1,7 @@
+field,description,possible_values
+dept_group,City of San Diego branch. Departments are grouped into branches.,"Finance, Infrastructure, Internal Operations, Major Revenues, Neighborhood Services, Non-Mayoral, Other, Public Safety"
+dept_name,Department name,
+dept_division,Department division,
+dept_section,Section within a department division,
+funds_center,"Represents the lowest level of organizational detail within a department and can represent a team, function, or facility within a department. Department group, name, division, and section represent groupings of funds centers.",
+funds_center_number,Unique identifier for a funds center,
